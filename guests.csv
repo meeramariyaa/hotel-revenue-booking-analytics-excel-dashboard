@@ -1,0 +1,601 @@
+guest_id,first_name,last_name,email,age,generation,home_city,home_state,market_type,booking_channel,loyalty_tier,total_visits,repeat_guest,party_composition,num_children,dietary_flag
+G0001,Janet,Adams,janet.adams719@example.com,35,Millennial,Boston,MA,National,Direct,None,1,False,Family,1,Vegetarian
+G0002,Brian,Hill,brian.hill271@example.com,36,Millennial,Houston,TX,Local,OTA,None,2,True,Family,2,None
+G0003,Richard,Harris,richard.harris285@example.com,40,Millennial,San Jose,CA,National,OTA,Silver,3,True,Family,1,Kosher
+G0004,Pamela,Anderson,pamela.anderson702@example.com,49,Gen X,Dallas,TX,National,Direct,Silver,3,True,Family,2,Vegetarian
+G0005,Heather,Scott,heather.scott552@example.com,51,Gen X,Denver,CO,Local,OTA,None,2,True,Family,3,None
+G0006,William,Harris,william.harris391@example.com,57,Gen X,Philadelphia,PA,National,Direct,Platinum,9,True,Solo,0,None
+G0007,Kimberly,Allen,kimberly.allen781@example.com,28,Millennial,New York,NY,National,OTA,Silver,4,True,Family,2,Kosher
+G0008,Larry,Garcia,larry.garcia88@example.com,63,Boomer,San Jose,CA,Regional,Direct,None,1,False,Family,2,None
+G0009,Debra,Adams,debra.adams383@example.com,32,Millennial,Mexico City,MX,International,OTA,None,2,True,Couple,0,None
+G0010,Barbara,Allen,barbara.allen244@example.com,58,Gen X,Chicago,IL,National,Direct,Silver,3,True,Solo,0,Kosher
+G0011,Edward,Robinson,edward.robinson885@example.com,50,Gen X,Houston,TX,National,Travel Agent,Silver,3,True,Solo,0,None
+G0012,Barbara,Lewis,barbara.lewis828@example.com,40,Millennial,Philadelphia,PA,Regional,OTA,Gold,5,True,Family,2,None
+G0013,Nancy,Harris,nancy.harris3@example.com,27,Gen Z,San Antonio,TX,National,Travel Agent,Gold,5,True,Couple,0,Dairy-Free
+G0014,Heather,Lee,heather.lee59@example.com,25,Gen Z,Los Angeles,CA,National,OTA,Silver,3,True,Solo,0,None
+G0015,Sharon,Nelson,sharon.nelson598@example.com,75,Boomer,Minneapolis,MN,National,Direct,None,1,False,Couple,0,Vegetarian
+G0016,Larry,Miller,larry.miller76@example.com,34,Millennial,Chicago,IL,Local,OTA,None,2,True,Group,0,Vegetarian
+G0017,Anna,Smith,anna.smith684@example.com,32,Millennial,Portland,OR,National,Corporate,Platinum,22,True,Couple,0,Halal
+G0018,Nicholas,Young,nicholas.young258@example.com,32,Millennial,London,UK,International,Direct,None,1,False,Solo,0,Kosher
+G0019,Frank,Martinez,frank.martinez559@example.com,24,Gen Z,Charlotte,NC,National,Direct,Silver,4,True,Couple,0,None
+G0020,Samantha,Mitchell,samantha.mitchell159@example.com,71,Boomer,Miami,FL,National,Direct,Silver,4,True,Couple,0,None
+G0021,Robert,Walker,robert.walker228@example.com,25,Gen Z,Mexico City,MX,International,Direct,Gold,10,True,Solo,0,None
+G0022,Gregory,Wright,gregory.wright340@example.com,74,Boomer,London,UK,International,Direct,Gold,6,True,Solo,0,None
+G0023,Matthew,Taylor,matthew.taylor46@example.com,26,Gen Z,Boston,MA,Local,Corporate,Silver,5,True,Couple,0,Dairy-Free
+G0024,Carolyn,Jackson,carolyn.jackson568@example.com,39,Millennial,San Jose,CA,National,Direct,Gold,9,True,Solo,0,None
+G0025,Jeffrey,Lewis,jeffrey.lewis692@example.com,73,Boomer,London,UK,International,OTA,None,1,False,Couple,0,None
+G0026,Jacob,Flores,jacob.flores871@example.com,75,Boomer,San Antonio,TX,Local,OTA,Silver,2,True,Solo,0,None
+G0027,Carolyn,King,carolyn.king476@example.com,34,Millennial,Houston,TX,National,OTA,None,1,False,Group,0,None
+G0028,Jacob,Lewis,jacob.lewis266@example.com,67,Boomer,Denver,CO,National,Corporate,Gold,8,True,Group,0,Gluten-Free
+G0029,Alexander,Wilson,alexander.wilson66@example.com,35,Millennial,Phoenix,AZ,Regional,OTA,Silver,4,True,Solo,0,Vegan
+G0030,Sharon,Wright,sharon.wright766@example.com,58,Gen X,Nashville,TN,National,Direct,Silver,5,True,Solo,0,Nut Allergy
+G0031,Nicole,Torres,nicole.torres679@example.com,35,Millennial,Portland,OR,National,OTA,None,2,True,Group,0,Dairy-Free
+G0032,John,Mitchell,john.mitchell553@example.com,73,Boomer,Charlotte,NC,Regional,Direct,Silver,5,True,Couple,0,None
+G0033,Sandra,Robinson,sandra.robinson717@example.com,71,Boomer,Seattle,WA,National,Direct,None,1,False,Solo,0,Vegetarian
+G0034,Benjamin,Thomas,benjamin.thomas105@example.com,49,Gen X,San Antonio,TX,Local,Travel Agent,None,1,False,Family,3,Vegan
+G0035,Alexander,Martinez,alexander.martinez446@example.com,29,Millennial,Austin,TX,National,OTA,Silver,4,True,Solo,0,Halal
+G0036,Brandon,Nelson,brandon.nelson389@example.com,76,Boomer,Denver,CO,Regional,Direct,Gold,10,True,Solo,0,None
+G0037,Gary,Scott,gary.scott777@example.com,54,Gen X,San Antonio,TX,Local,Direct,Gold,8,True,Couple,0,Gluten-Free
+G0038,Melissa,Hall,melissa.hall465@example.com,75,Boomer,Charlotte,NC,National,Direct,Silver,4,True,Couple,0,Vegetarian
+G0039,Matthew,Jackson,matthew.jackson233@example.com,51,Gen X,Boston,MA,National,Direct,None,1,False,Family,3,Nut Allergy
+G0040,Amanda,Lopez,amanda.lopez989@example.com,44,Gen X,Minneapolis,MN,Regional,Direct,None,2,True,Family,1,None
+G0041,Scott,Flores,scott.flores232@example.com,75,Boomer,Houston,TX,National,OTA,None,1,False,Family,1,None
+G0042,Donald,Lopez,donald.lopez566@example.com,42,Millennial,San Antonio,TX,Regional,Corporate,Platinum,11,True,Solo,0,None
+G0043,Kimberly,Green,kimberly.green604@example.com,60,Boomer,Toronto,ON,International,OTA,None,1,False,Couple,0,None
+G0044,Andrew,Lewis,andrew.lewis128@example.com,31,Millennial,Portland,OR,National,Direct,None,2,True,Family,2,Vegetarian
+G0045,Emma,Nguyen,emma.nguyen974@example.com,56,Gen X,San Diego,CA,National,OTA,None,1,False,Solo,0,Halal
+G0046,Carol,Nelson,carol.nelson108@example.com,68,Boomer,Chicago,IL,Regional,OTA,None,2,True,Couple,0,None
+G0047,Shirley,Smith,shirley.smith674@example.com,24,Gen Z,Houston,TX,National,OTA,None,1,False,Solo,0,None
+G0048,Carolyn,Young,carolyn.young125@example.com,23,Gen Z,Miami,FL,Local,OTA,Silver,5,True,Solo,0,None
+G0049,Alexander,Moore,alexander.moore426@example.com,67,Boomer,Mexico City,MX,International,Direct,Silver,2,True,Solo,0,None
+G0050,Joshua,Nguyen,joshua.nguyen594@example.com,42,Millennial,Dallas,TX,National,Direct,None,1,False,Family,3,None
+G0051,Julie,Clark,julie.clark45@example.com,26,Gen Z,San Diego,CA,National,OTA,None,2,True,Group,0,None
+G0052,Anna,Robinson,anna.robinson16@example.com,56,Gen X,Houston,TX,National,Corporate,Gold,4,True,Couple,0,None
+G0053,Diane,Young,diane.young894@example.com,30,Millennial,Nashville,TN,National,Corporate,Silver,2,True,Group,0,Vegetarian
+G0054,Melissa,White,melissa.white442@example.com,37,Millennial,Los Angeles,CA,Regional,OTA,None,1,False,Group,0,None
+G0055,Kathleen,Jackson,kathleen.jackson694@example.com,76,Boomer,Dallas,TX,Regional,Direct,Gold,7,True,Family,3,Vegan
+G0056,Melissa,Torres,melissa.torres303@example.com,39,Millennial,Seattle,WA,Local,Direct,Platinum,17,True,Family,2,None
+G0057,Katherine,Gonzalez,katherine.gonzalez636@example.com,24,Gen Z,San Diego,CA,National,Direct,Platinum,17,True,Couple,0,None
+G0058,George,King,george.king514@example.com,47,Gen X,Philadelphia,PA,Regional,Corporate,None,2,True,Family,2,Gluten-Free
+G0059,Ronald,Scott,ronald.scott375@example.com,24,Gen Z,San Diego,CA,National,OTA,None,1,False,Couple,0,Gluten-Free
+G0060,Pamela,Lee,pamela.lee938@example.com,72,Boomer,Seattle,WA,Local,Direct,Silver,5,True,Family,1,Dairy-Free
+G0061,Heather,Hall,heather.hall969@example.com,37,Millennial,Phoenix,AZ,Regional,OTA,None,1,False,Family,3,None
+G0062,Rachel,White,rachel.white558@example.com,41,Millennial,San Diego,CA,National,Direct,Silver,4,True,Family,2,None
+G0063,Kevin,Thomas,kevin.thomas129@example.com,24,Gen Z,Portland,OR,National,Direct,None,2,True,Couple,0,None
+G0064,Joseph,Nelson,joseph.nelson888@example.com,34,Millennial,Phoenix,AZ,National,Direct,Platinum,8,True,Family,1,Gluten-Free
+G0065,Nicole,Miller,nicole.miller463@example.com,60,Boomer,Seattle,WA,Regional,Direct,None,1,False,Couple,0,None
+G0066,Charles,Jones,charles.jones130@example.com,42,Millennial,Chicago,IL,National,Travel Agent,None,2,True,Group,0,None
+G0067,Cynthia,Anderson,cynthia.anderson424@example.com,54,Gen X,Miami,FL,National,OTA,None,2,True,Couple,0,None
+G0068,Deborah,Rodriguez,deborah.rodriguez570@example.com,56,Gen X,Chicago,IL,Regional,Direct,Silver,4,True,Family,1,Gluten-Free
+G0069,Jessica,Thompson,jessica.thompson866@example.com,77,Boomer,San Antonio,TX,Regional,Direct,Gold,6,True,Couple,0,None
+G0070,Charles,Torres,charles.torres674@example.com,35,Millennial,Atlanta,GA,Regional,Corporate,Platinum,13,True,Family,2,None
+G0071,Lisa,Hernandez,lisa.hernandez773@example.com,44,Gen X,Minneapolis,MN,National,OTA,None,2,True,Family,2,Dairy-Free
+G0072,Gary,King,gary.king684@example.com,42,Millennial,Houston,TX,Regional,OTA,Silver,4,True,Family,2,Vegan
+G0073,Thomas,Harris,thomas.harris546@example.com,56,Gen X,Sydney,AU,International,Direct,Platinum,18,True,Family,2,None
+G0074,Donna,Davis,donna.davis415@example.com,30,Millennial,Mexico City,MX,International,Corporate,None,1,False,Couple,0,Vegetarian
+G0075,Julie,Hernandez,julie.hernandez79@example.com,70,Boomer,San Jose,CA,National,Travel Agent,None,1,False,Couple,0,None
+G0076,Barbara,Lopez,barbara.lopez975@example.com,39,Millennial,Portland,OR,Regional,OTA,Silver,3,True,Family,1,Gluten-Free
+G0077,Emily,Nguyen,emily.nguyen58@example.com,42,Millennial,London,UK,International,Corporate,Gold,5,True,Family,2,None
+G0078,Jack,Williams,jack.williams461@example.com,53,Gen X,Denver,CO,National,Direct,Silver,2,True,Couple,0,Nut Allergy
+G0079,Dorothy,Rivera,dorothy.rivera449@example.com,26,Gen Z,Chicago,IL,National,OTA,None,1,False,Group,0,None
+G0080,Steven,Campbell,steven.campbell873@example.com,24,Gen Z,Houston,TX,National,Corporate,Silver,2,True,Solo,0,None
+G0081,Thomas,Nelson,thomas.nelson720@example.com,30,Millennial,London,UK,International,OTA,Gold,5,True,Family,2,Gluten-Free
+G0082,Richard,Allen,richard.allen790@example.com,41,Millennial,Phoenix,AZ,Local,OTA,None,1,False,Family,1,Halal
+G0083,Jeffrey,Flores,jeffrey.flores292@example.com,38,Millennial,Austin,TX,National,Direct,Silver,3,True,Solo,0,None
+G0084,Christopher,Gonzalez,christopher.gonzalez821@example.com,35,Millennial,Nashville,TN,National,Travel Agent,Gold,9,True,Solo,0,None
+G0085,Mark,Lewis,mark.lewis906@example.com,43,Millennial,Phoenix,AZ,National,OTA,None,1,False,Family,3,None
+G0086,Charles,Rodriguez,charles.rodriguez40@example.com,57,Gen X,Mexico City,MX,International,OTA,None,1,False,Family,1,Vegetarian
+G0087,Donald,Martin,donald.martin125@example.com,48,Gen X,Boston,MA,Regional,OTA,Gold,5,True,Couple,0,Gluten-Free
+G0088,Betty,Nelson,betty.nelson685@example.com,73,Boomer,Portland,OR,Regional,Corporate,Gold,9,True,Family,1,Vegetarian
+G0089,Jerry,Nguyen,jerry.nguyen753@example.com,71,Boomer,San Diego,CA,National,Corporate,None,2,True,Solo,0,Vegetarian
+G0090,Margaret,Williams,margaret.williams324@example.com,39,Millennial,Denver,CO,Local,OTA,Silver,5,True,Solo,0,None
+G0091,Laura,Sanchez,laura.sanchez762@example.com,24,Gen Z,Atlanta,GA,Regional,Direct,Gold,10,True,Group,0,Gluten-Free
+G0092,David,Lee,david.lee677@example.com,54,Gen X,Philadelphia,PA,National,Corporate,Silver,2,True,Family,3,None
+G0093,Gregory,Hernandez,gregory.hernandez976@example.com,57,Gen X,Nashville,TN,Regional,OTA,None,2,True,Family,3,Halal
+G0094,Emma,Rodriguez,emma.rodriguez543@example.com,74,Boomer,Austin,TX,Regional,Direct,Gold,8,True,Couple,0,Gluten-Free
+G0095,Gary,Gonzalez,gary.gonzalez126@example.com,52,Gen X,Portland,OR,Regional,Direct,None,2,True,Solo,0,Dairy-Free
+G0096,Carolyn,Green,carolyn.green179@example.com,62,Boomer,San Jose,CA,National,Direct,None,2,True,Solo,0,Vegan
+G0097,William,Martin,william.martin408@example.com,31,Millennial,Miami,FL,Local,Corporate,Silver,2,True,Couple,0,Dairy-Free
+G0098,Thomas,Ramirez,thomas.ramirez515@example.com,26,Gen Z,Miami,FL,National,Direct,Platinum,24,True,Solo,0,None
+G0099,Emily,Rodriguez,emily.rodriguez641@example.com,24,Gen Z,Dallas,TX,Regional,Direct,Silver,4,True,Group,0,Nut Allergy
+G0100,Emma,Clark,emma.clark633@example.com,46,Gen X,Minneapolis,MN,Regional,Travel Agent,None,2,True,Family,3,None
+G0101,Helen,Martinez,helen.martinez321@example.com,37,Millennial,Charlotte,NC,Regional,Direct,Platinum,10,True,Solo,0,None
+G0102,Donna,Harris,donna.harris885@example.com,23,Gen Z,Denver,CO,Regional,OTA,None,1,False,Solo,0,None
+G0103,Ryan,Thomas,ryan.thomas221@example.com,38,Millennial,New York,NY,Local,OTA,None,1,False,Solo,0,None
+G0104,George,Williams,george.williams411@example.com,37,Millennial,Dallas,TX,National,OTA,Silver,4,True,Couple,0,Gluten-Free
+G0105,Pamela,White,pamela.white774@example.com,77,Boomer,Nashville,TN,Regional,Direct,Silver,4,True,Family,1,Nut Allergy
+G0106,Jack,Martin,jack.martin608@example.com,76,Boomer,Atlanta,GA,Regional,Direct,Gold,5,True,Family,3,Nut Allergy
+G0107,Scott,Walker,scott.walker272@example.com,59,Gen X,Mexico City,MX,International,Corporate,Silver,5,True,Couple,0,Vegetarian
+G0108,John,Lewis,john.lewis322@example.com,26,Gen Z,Mexico City,MX,International,OTA,None,2,True,Solo,0,None
+G0109,Daniel,Robinson,daniel.robinson935@example.com,50,Gen X,Seattle,WA,National,Corporate,Platinum,14,True,Group,0,None
+G0110,Kenneth,Walker,kenneth.walker358@example.com,36,Millennial,Mexico City,MX,International,OTA,Platinum,17,True,Couple,0,Vegan
+G0111,Jeffrey,Adams,jeffrey.adams263@example.com,31,Millennial,Mexico City,MX,International,OTA,None,2,True,Family,2,None
+G0112,Jacob,Miller,jacob.miller698@example.com,36,Millennial,Los Angeles,CA,Local,OTA,None,1,False,Family,1,None
+G0113,Emma,Anderson,emma.anderson548@example.com,41,Millennial,Los Angeles,CA,National,Corporate,Platinum,17,True,Family,3,None
+G0114,Kevin,Jackson,kevin.jackson466@example.com,41,Millennial,Minneapolis,MN,National,Corporate,None,2,True,Solo,0,Dairy-Free
+G0115,Jack,Perez,jack.perez810@example.com,26,Gen Z,Mexico City,MX,International,OTA,None,1,False,Couple,0,None
+G0116,Dennis,Moore,dennis.moore977@example.com,49,Gen X,New York,NY,Regional,OTA,None,1,False,Family,1,None
+G0117,Frank,Davis,frank.davis655@example.com,44,Gen X,Mexico City,MX,International,OTA,None,1,False,Family,3,Gluten-Free
+G0118,Diane,Thomas,diane.thomas697@example.com,23,Gen Z,Miami,FL,National,Corporate,Gold,7,True,Group,0,Halal
+G0119,Justin,Young,justin.young94@example.com,39,Millennial,Toronto,ON,International,Corporate,None,1,False,Couple,0,None
+G0120,Sandra,Nguyen,sandra.nguyen75@example.com,23,Gen Z,Nashville,TN,Regional,OTA,None,1,False,Couple,0,None
+G0121,Deborah,Harris,deborah.harris460@example.com,71,Boomer,London,UK,International,Travel Agent,Silver,5,True,Group,0,Nut Allergy
+G0122,Mark,Smith,mark.smith775@example.com,27,Gen Z,Nashville,TN,National,Corporate,Platinum,13,True,Group,0,Gluten-Free
+G0123,Brandon,Roberts,brandon.roberts959@example.com,69,Boomer,Houston,TX,Local,Direct,Silver,4,True,Family,3,Vegan
+G0124,Julie,Brown,julie.brown144@example.com,22,Gen Z,San Diego,CA,National,Direct,None,1,False,Couple,0,Gluten-Free
+G0125,Nicole,Mitchell,nicole.mitchell934@example.com,38,Millennial,Charlotte,NC,Regional,OTA,Silver,3,True,Couple,0,None
+G0126,Joshua,Rivera,joshua.rivera148@example.com,73,Boomer,Miami,FL,Regional,Travel Agent,Gold,7,True,Family,1,Halal
+G0127,Michael,Moore,michael.moore387@example.com,41,Millennial,Chicago,IL,National,OTA,None,2,True,Group,0,Halal
+G0128,Sarah,Mitchell,sarah.mitchell773@example.com,34,Millennial,San Antonio,TX,National,OTA,None,2,True,Family,1,Nut Allergy
+G0129,Patrick,Walker,patrick.walker780@example.com,50,Gen X,Boston,MA,National,OTA,Silver,5,True,Family,2,None
+G0130,Ashley,Harris,ashley.harris584@example.com,38,Millennial,Charlotte,NC,Regional,Direct,Platinum,25,True,Couple,0,None
+G0131,Brenda,Adams,brenda.adams981@example.com,36,Millennial,Miami,FL,Regional,Travel Agent,Silver,5,True,Family,3,Dairy-Free
+G0132,Debra,Flores,debra.flores935@example.com,61,Boomer,Denver,CO,Regional,Direct,Platinum,12,True,Family,3,Vegetarian
+G0133,Lisa,Thomas,lisa.thomas197@example.com,44,Gen X,Philadelphia,PA,Local,OTA,None,2,True,Couple,0,None
+G0134,Christine,Carter,christine.carter33@example.com,36,Millennial,London,UK,International,Direct,Platinum,15,True,Family,1,Nut Allergy
+G0135,Ashley,Wilson,ashley.wilson923@example.com,72,Boomer,Houston,TX,National,OTA,Silver,5,True,Solo,0,Dairy-Free
+G0136,Janet,Sanchez,janet.sanchez952@example.com,22,Gen Z,San Antonio,TX,National,Corporate,Gold,5,True,Solo,0,Gluten-Free
+G0137,Jerry,Flores,jerry.flores978@example.com,65,Boomer,San Diego,CA,National,Corporate,Silver,2,True,Family,2,None
+G0138,David,Moore,david.moore158@example.com,36,Millennial,San Jose,CA,National,OTA,None,2,True,Family,3,Vegan
+G0139,Shirley,Clark,shirley.clark106@example.com,56,Gen X,Philadelphia,PA,Regional,Direct,None,2,True,Family,1,Vegetarian
+G0140,Angela,Martinez,angela.martinez65@example.com,71,Boomer,Philadelphia,PA,Local,Direct,Silver,3,True,Family,2,None
+G0141,Samantha,Harris,samantha.harris824@example.com,68,Boomer,New York,NY,National,Corporate,Silver,5,True,Solo,0,None
+G0142,Frank,Green,frank.green503@example.com,27,Gen Z,Nashville,TN,National,Travel Agent,None,2,True,Solo,0,None
+G0143,Alexander,Wilson,alexander.wilson449@example.com,24,Gen Z,Miami,FL,Local,OTA,None,1,False,Solo,0,Gluten-Free
+G0144,Frank,Clark,frank.clark557@example.com,43,Millennial,Seattle,WA,National,OTA,None,1,False,Family,3,None
+G0145,Heather,King,heather.king572@example.com,71,Boomer,New York,NY,Local,Corporate,Silver,5,True,Couple,0,None
+G0146,Charles,Thompson,charles.thompson320@example.com,42,Millennial,Chicago,IL,Local,OTA,Silver,4,True,Family,2,Dairy-Free
+G0147,Jessica,Baker,jessica.baker820@example.com,59,Gen X,Houston,TX,Local,Direct,Gold,4,True,Family,3,None
+G0148,Margaret,Lewis,margaret.lewis607@example.com,67,Boomer,Charlotte,NC,Regional,OTA,Platinum,13,True,Family,3,Gluten-Free
+G0149,Gary,King,gary.king990@example.com,50,Gen X,San Antonio,TX,Regional,Corporate,Platinum,25,True,Family,2,None
+G0150,Frank,Martinez,frank.martinez524@example.com,31,Millennial,San Diego,CA,Regional,OTA,None,1,False,Solo,0,None
+G0151,Mary,Young,mary.young140@example.com,56,Gen X,Denver,CO,National,OTA,None,1,False,Family,2,Kosher
+G0152,Jonathan,Jackson,jonathan.jackson173@example.com,72,Boomer,San Diego,CA,Regional,OTA,Silver,5,True,Couple,0,None
+G0153,Dorothy,Martin,dorothy.martin896@example.com,31,Millennial,Houston,TX,National,Direct,Gold,10,True,Group,0,Vegan
+G0154,Karen,Wilson,karen.wilson834@example.com,22,Gen Z,Portland,OR,National,OTA,Platinum,19,True,Group,0,None
+G0155,Karen,Carter,karen.carter805@example.com,61,Boomer,Toronto,ON,International,OTA,None,2,True,Couple,0,Halal
+G0156,Barbara,Green,barbara.green814@example.com,52,Gen X,Dallas,TX,National,Corporate,Silver,3,True,Couple,0,None
+G0157,Ryan,Green,ryan.green681@example.com,27,Gen Z,Sydney,AU,International,Corporate,Silver,4,True,Group,0,None
+G0158,Diane,Brown,diane.brown48@example.com,34,Millennial,Seattle,WA,National,Corporate,Gold,6,True,Couple,0,Dairy-Free
+G0159,David,White,david.white681@example.com,74,Boomer,Dallas,TX,Local,Direct,None,2,True,Solo,0,None
+G0160,Nicole,Anderson,nicole.anderson532@example.com,27,Gen Z,New York,NY,Regional,OTA,Silver,5,True,Couple,0,None
+G0161,Joshua,Rodriguez,joshua.rodriguez392@example.com,38,Millennial,Houston,TX,Local,Travel Agent,Silver,5,True,Family,3,None
+G0162,Sandra,Garcia,sandra.garcia919@example.com,30,Millennial,Charlotte,NC,National,OTA,Silver,5,True,Solo,0,None
+G0163,Raymond,Martin,raymond.martin211@example.com,63,Boomer,San Jose,CA,National,Direct,None,2,True,Couple,0,Vegan
+G0164,Mary,White,mary.white957@example.com,40,Millennial,Portland,OR,Local,OTA,Silver,5,True,Family,3,Dairy-Free
+G0165,Ronald,Allen,ronald.allen294@example.com,57,Gen X,Los Angeles,CA,National,Corporate,Platinum,10,True,Family,1,Dairy-Free
+G0166,Katherine,Carter,katherine.carter855@example.com,41,Millennial,Phoenix,AZ,National,OTA,Silver,4,True,Family,1,None
+G0167,Daniel,Davis,daniel.davis13@example.com,41,Millennial,San Jose,CA,National,Corporate,Silver,2,True,Couple,0,Vegan
+G0168,Jerry,Johnson,jerry.johnson344@example.com,43,Millennial,Sydney,AU,International,OTA,Silver,3,True,Group,0,Dairy-Free
+G0169,Jessica,Torres,jessica.torres691@example.com,36,Millennial,Philadelphia,PA,Regional,Travel Agent,Silver,5,True,Family,3,None
+G0170,Mark,Lee,mark.lee255@example.com,29,Millennial,Sydney,AU,International,Direct,Silver,3,True,Group,0,Vegan
+G0171,Julie,Martin,julie.martin336@example.com,52,Gen X,Chicago,IL,National,OTA,None,1,False,Group,0,Kosher
+G0172,Diane,Thomas,diane.thomas155@example.com,74,Boomer,Sydney,AU,International,Direct,Gold,6,True,Couple,0,Dairy-Free
+G0173,Sharon,Young,sharon.young985@example.com,73,Boomer,Houston,TX,Regional,Direct,Platinum,20,True,Couple,0,Nut Allergy
+G0174,Barbara,Nguyen,barbara.nguyen582@example.com,64,Boomer,London,UK,International,Travel Agent,Gold,7,True,Couple,0,Halal
+G0175,Jessica,Martinez,jessica.martinez109@example.com,64,Boomer,San Antonio,TX,Local,Corporate,Platinum,22,True,Family,1,Gluten-Free
+G0176,Alexander,Hall,alexander.hall618@example.com,74,Boomer,Chicago,IL,Regional,OTA,Platinum,22,True,Family,1,Vegan
+G0177,Richard,Robinson,richard.robinson105@example.com,70,Boomer,Denver,CO,National,Direct,Silver,4,True,Family,2,Vegetarian
+G0178,Nicole,Taylor,nicole.taylor940@example.com,28,Millennial,London,UK,International,Corporate,Platinum,20,True,Family,3,None
+G0179,Patricia,Harris,patricia.harris700@example.com,34,Millennial,Charlotte,NC,National,OTA,None,2,True,Family,3,None
+G0180,Karen,Clark,karen.clark205@example.com,50,Gen X,Seattle,WA,Local,Direct,Platinum,17,True,Group,0,None
+G0181,Patricia,Roberts,patricia.roberts288@example.com,28,Millennial,Philadelphia,PA,Local,Corporate,Silver,4,True,Family,2,Vegetarian
+G0182,Daniel,Lopez,daniel.lopez243@example.com,75,Boomer,Nashville,TN,Regional,Direct,Gold,10,True,Group,0,Halal
+G0183,John,King,john.king490@example.com,39,Millennial,Chicago,IL,Local,OTA,None,1,False,Family,1,Vegetarian
+G0184,Barbara,White,barbara.white722@example.com,66,Boomer,Houston,TX,National,Direct,Platinum,12,True,Group,0,Kosher
+G0185,Melissa,Anderson,melissa.anderson682@example.com,24,Gen Z,Miami,FL,National,OTA,Platinum,18,True,Solo,0,Dairy-Free
+G0186,Angela,Martinez,angela.martinez340@example.com,37,Millennial,Portland,OR,Regional,OTA,None,1,False,Family,2,Vegetarian
+G0187,Patrick,Smith,patrick.smith50@example.com,38,Millennial,Chicago,IL,Regional,OTA,Platinum,16,True,Family,3,Gluten-Free
+G0188,Cynthia,Jones,cynthia.jones819@example.com,49,Gen X,Toronto,ON,International,Corporate,Silver,2,True,Couple,0,None
+G0189,Amy,Rivera,amy.rivera32@example.com,38,Millennial,Chicago,IL,Regional,Corporate,None,1,False,Group,0,Nut Allergy
+G0190,Richard,Brown,richard.brown403@example.com,57,Gen X,Dallas,TX,National,Direct,Silver,5,True,Couple,0,None
+G0191,Joseph,Martin,joseph.martin804@example.com,29,Millennial,San Jose,CA,National,Direct,None,2,True,Family,3,None
+G0192,Larry,Brown,larry.brown155@example.com,52,Gen X,Denver,CO,Regional,OTA,None,2,True,Family,2,Halal
+G0193,Emma,Thomas,emma.thomas488@example.com,39,Millennial,Miami,FL,National,OTA,Silver,2,True,Couple,0,Dairy-Free
+G0194,Benjamin,Martinez,benjamin.martinez855@example.com,45,Gen X,Chicago,IL,National,Travel Agent,Silver,3,True,Family,2,None
+G0195,Lisa,Martinez,lisa.martinez581@example.com,30,Millennial,Boston,MA,National,OTA,None,2,True,Couple,0,None
+G0196,Helen,Baker,helen.baker711@example.com,31,Millennial,Philadelphia,PA,Regional,Corporate,Platinum,23,True,Couple,0,None
+G0197,Ashley,Rodriguez,ashley.rodriguez308@example.com,54,Gen X,Mexico City,MX,International,Corporate,Platinum,17,True,Family,2,Vegan
+G0198,Shirley,Hernandez,shirley.hernandez68@example.com,27,Gen Z,Boston,MA,National,OTA,Silver,5,True,Couple,0,Halal
+G0199,Emily,White,emily.white844@example.com,56,Gen X,Los Angeles,CA,National,Corporate,None,1,False,Family,2,Vegan
+G0200,Andrew,Johnson,andrew.johnson396@example.com,47,Gen X,Dallas,TX,National,OTA,None,1,False,Family,1,Vegan
+G0201,Steven,Hill,steven.hill825@example.com,78,Boomer,Philadelphia,PA,National,Direct,Silver,2,True,Solo,0,None
+G0202,Deborah,Scott,deborah.scott663@example.com,24,Gen Z,Toronto,ON,International,OTA,None,2,True,Solo,0,Nut Allergy
+G0203,Scott,Sanchez,scott.sanchez677@example.com,31,Millennial,San Diego,CA,National,Direct,Platinum,17,True,Family,3,Halal
+G0204,Jacob,Nelson,jacob.nelson368@example.com,44,Gen X,San Diego,CA,National,Direct,Silver,2,True,Family,3,Vegetarian
+G0205,Sharon,Perez,sharon.perez381@example.com,37,Millennial,Sydney,AU,International,OTA,Silver,4,True,Family,1,Kosher
+G0206,Lisa,Rodriguez,lisa.rodriguez206@example.com,58,Gen X,Nashville,TN,National,Direct,Gold,5,True,Family,3,None
+G0207,Julie,Hernandez,julie.hernandez591@example.com,58,Gen X,New York,NY,Regional,Corporate,Silver,5,True,Family,1,None
+G0208,Mary,Lee,mary.lee776@example.com,32,Millennial,Sydney,AU,International,OTA,None,2,True,Family,1,None
+G0209,Joshua,Jackson,joshua.jackson467@example.com,28,Millennial,San Jose,CA,Regional,OTA,None,2,True,Family,3,Halal
+G0210,Thomas,Wilson,thomas.wilson752@example.com,41,Millennial,New York,NY,Regional,Travel Agent,None,2,True,Family,2,Gluten-Free
+G0211,John,Brown,john.brown707@example.com,76,Boomer,Los Angeles,CA,National,Corporate,Platinum,25,True,Couple,0,Vegan
+G0212,Sharon,Miller,sharon.miller524@example.com,74,Boomer,Dallas,TX,National,Direct,Gold,6,True,Couple,0,Vegan
+G0213,Amy,Perez,amy.perez241@example.com,31,Millennial,Miami,FL,Regional,OTA,Silver,3,True,Family,1,None
+G0214,Daniel,Williams,daniel.williams873@example.com,62,Boomer,Dallas,TX,Regional,Travel Agent,Gold,6,True,Group,0,None
+G0215,Deborah,Perez,deborah.perez188@example.com,57,Gen X,Portland,OR,Regional,Corporate,Platinum,13,True,Family,2,Gluten-Free
+G0216,Amy,Torres,amy.torres695@example.com,72,Boomer,Philadelphia,PA,Local,Corporate,Gold,4,True,Solo,0,Dairy-Free
+G0217,Alexander,Baker,alexander.baker538@example.com,55,Gen X,Chicago,IL,Regional,Corporate,Gold,7,True,Couple,0,None
+G0218,Pamela,Flores,pamela.flores56@example.com,38,Millennial,London,UK,International,OTA,Silver,5,True,Couple,0,None
+G0219,Ryan,Lewis,ryan.lewis821@example.com,65,Boomer,Nashville,TN,Regional,Direct,Silver,4,True,Couple,0,None
+G0220,Samantha,Green,samantha.green312@example.com,42,Millennial,New York,NY,National,Direct,Silver,2,True,Family,3,Gluten-Free
+G0221,Janet,Lewis,janet.lewis117@example.com,24,Gen Z,Portland,OR,Regional,OTA,None,1,False,Couple,0,Vegan
+G0222,Patrick,Clark,patrick.clark110@example.com,67,Boomer,Seattle,WA,Local,Corporate,Platinum,11,True,Family,1,Vegan
+G0223,Jerry,Lewis,jerry.lewis469@example.com,50,Gen X,Toronto,ON,International,Direct,Platinum,21,True,Family,3,Vegetarian
+G0224,Helen,Lee,helen.lee517@example.com,43,Millennial,Phoenix,AZ,Local,OTA,None,2,True,Solo,0,Vegan
+G0225,Carolyn,Scott,carolyn.scott882@example.com,25,Gen Z,Sydney,AU,International,Corporate,Platinum,21,True,Couple,0,None
+G0226,Pamela,Walker,pamela.walker597@example.com,50,Gen X,Atlanta,GA,National,OTA,None,2,True,Couple,0,Gluten-Free
+G0227,Linda,Hall,linda.hall804@example.com,41,Millennial,San Jose,CA,National,OTA,None,1,False,Family,1,None
+G0228,Timothy,Harris,timothy.harris427@example.com,45,Gen X,San Jose,CA,National,Direct,Platinum,24,True,Couple,0,None
+G0229,Patrick,Gonzalez,patrick.gonzalez302@example.com,27,Gen Z,Miami,FL,National,OTA,Silver,3,True,Couple,0,None
+G0230,Lisa,Williams,lisa.williams158@example.com,49,Gen X,Dallas,TX,Local,OTA,None,2,True,Family,3,None
+G0231,Rebecca,Garcia,rebecca.garcia358@example.com,26,Gen Z,Boston,MA,Regional,OTA,None,2,True,Solo,0,None
+G0232,Jennifer,Baker,jennifer.baker907@example.com,66,Boomer,Portland,OR,National,Direct,Platinum,19,True,Group,0,None
+G0233,Richard,Hernandez,richard.hernandez995@example.com,56,Gen X,San Antonio,TX,Regional,Corporate,None,2,True,Family,3,None
+G0234,Samuel,Jones,samuel.jones765@example.com,23,Gen Z,Sydney,AU,International,OTA,Silver,2,True,Group,0,Gluten-Free
+G0235,John,Harris,john.harris690@example.com,38,Millennial,Denver,CO,National,Direct,None,2,True,Couple,0,None
+G0236,Patricia,Walker,patricia.walker161@example.com,60,Boomer,Denver,CO,Regional,Corporate,Silver,4,True,Solo,0,Halal
+G0237,Stephen,Garcia,stephen.garcia313@example.com,37,Millennial,New York,NY,National,Direct,Gold,8,True,Family,1,None
+G0238,Michael,Carter,michael.carter955@example.com,71,Boomer,Toronto,ON,International,Corporate,None,1,False,Family,1,Gluten-Free
+G0239,Andrew,Flores,andrew.flores72@example.com,24,Gen Z,London,UK,International,OTA,None,1,False,Solo,0,None
+G0240,Mark,Rivera,mark.rivera758@example.com,24,Gen Z,Philadelphia,PA,Local,OTA,None,1,False,Group,0,None
+G0241,Emily,Rodriguez,emily.rodriguez913@example.com,32,Millennial,London,UK,International,OTA,Gold,6,True,Solo,0,Vegetarian
+G0242,Ronald,Anderson,ronald.anderson913@example.com,30,Millennial,Seattle,WA,National,Corporate,Gold,4,True,Family,3,None
+G0243,Raymond,Martinez,raymond.martinez754@example.com,42,Millennial,Philadelphia,PA,Regional,OTA,None,1,False,Solo,0,Dairy-Free
+G0244,Jennifer,Williams,jennifer.williams665@example.com,35,Millennial,Nashville,TN,Regional,Direct,Silver,2,True,Couple,0,None
+G0245,Brian,Young,brian.young812@example.com,52,Gen X,San Diego,CA,National,OTA,None,2,True,Couple,0,None
+G0246,Raymond,Anderson,raymond.anderson425@example.com,48,Gen X,Mexico City,MX,International,Direct,Gold,5,True,Family,3,Halal
+G0247,Emma,Martinez,emma.martinez58@example.com,43,Millennial,Philadelphia,PA,Local,Direct,None,2,True,Family,3,None
+G0248,Jerry,Lopez,jerry.lopez639@example.com,65,Boomer,Charlotte,NC,National,Corporate,Platinum,23,True,Solo,0,Gluten-Free
+G0249,Helen,Miller,helen.miller182@example.com,38,Millennial,Boston,MA,National,OTA,None,2,True,Family,3,Halal
+G0250,Ashley,Walker,ashley.walker809@example.com,47,Gen X,Mexico City,MX,International,Corporate,Platinum,21,True,Family,1,None
+G0251,Emma,King,emma.king121@example.com,41,Millennial,New York,NY,National,Direct,Gold,8,True,Family,1,Gluten-Free
+G0252,Dennis,Wilson,dennis.wilson424@example.com,38,Millennial,Portland,OR,Regional,OTA,None,2,True,Family,2,Vegan
+G0253,Ashley,Lewis,ashley.lewis802@example.com,33,Millennial,Toronto,ON,International,OTA,None,2,True,Group,0,None
+G0254,William,Taylor,william.taylor228@example.com,34,Millennial,Seattle,WA,National,OTA,None,1,False,Group,0,None
+G0255,Eric,Jackson,eric.jackson200@example.com,56,Gen X,Toronto,ON,International,Corporate,Silver,3,True,Family,1,Dairy-Free
+G0256,Mary,Mitchell,mary.mitchell721@example.com,76,Boomer,Nashville,TN,Regional,Direct,Silver,3,True,Couple,0,None
+G0257,Donna,Perez,donna.perez970@example.com,62,Boomer,Boston,MA,Local,Travel Agent,None,1,False,Family,2,None
+G0258,Amy,Davis,amy.davis265@example.com,76,Boomer,Denver,CO,National,Direct,Silver,3,True,Couple,0,Kosher
+G0259,Barbara,Scott,barbara.scott954@example.com,67,Boomer,Sydney,AU,International,Travel Agent,Silver,4,True,Family,3,Halal
+G0260,Dorothy,Flores,dorothy.flores365@example.com,70,Boomer,Dallas,TX,Regional,Direct,Platinum,14,True,Family,1,None
+G0261,Diane,Allen,diane.allen287@example.com,63,Boomer,Minneapolis,MN,National,Travel Agent,Silver,2,True,Solo,0,None
+G0262,Mary,Baker,mary.baker216@example.com,48,Gen X,Boston,MA,Regional,Corporate,Gold,7,True,Solo,0,Vegan
+G0263,Carolyn,Carter,carolyn.carter382@example.com,54,Gen X,Philadelphia,PA,Regional,Corporate,Silver,3,True,Solo,0,None
+G0264,Jack,Martinez,jack.martinez485@example.com,52,Gen X,Nashville,TN,Regional,OTA,Platinum,16,True,Couple,0,Halal
+G0265,Sandra,Taylor,sandra.taylor488@example.com,43,Millennial,Nashville,TN,Local,Travel Agent,Gold,6,True,Couple,0,None
+G0266,Christine,Wright,christine.wright179@example.com,38,Millennial,Portland,OR,Regional,OTA,None,2,True,Family,3,Vegetarian
+G0267,Amanda,Clark,amanda.clark647@example.com,27,Gen Z,Phoenix,AZ,National,OTA,Silver,2,True,Couple,0,Vegetarian
+G0268,Cynthia,Clark,cynthia.clark172@example.com,30,Millennial,Austin,TX,National,OTA,None,2,True,Family,2,None
+G0269,Ronald,King,ronald.king784@example.com,60,Boomer,Seattle,WA,National,Direct,Gold,5,True,Family,1,None
+G0270,Patricia,Williams,patricia.williams680@example.com,22,Gen Z,Phoenix,AZ,Local,OTA,Gold,5,True,Couple,0,Halal
+G0271,Jonathan,Martin,jonathan.martin931@example.com,59,Gen X,Minneapolis,MN,Regional,Travel Agent,Silver,3,True,Couple,0,Vegetarian
+G0272,Mary,Hall,mary.hall945@example.com,51,Gen X,Phoenix,AZ,Regional,Direct,Silver,4,True,Couple,0,None
+G0273,Stephanie,Harris,stephanie.harris226@example.com,53,Gen X,San Diego,CA,Regional,Corporate,Gold,5,True,Couple,0,Gluten-Free
+G0274,Paul,Hall,paul.hall638@example.com,51,Gen X,Houston,TX,National,OTA,None,2,True,Family,2,Vegetarian
+G0275,Sandra,Perez,sandra.perez431@example.com,44,Gen X,San Diego,CA,Local,Travel Agent,None,1,False,Couple,0,None
+G0276,Timothy,Smith,timothy.smith125@example.com,55,Gen X,Philadelphia,PA,Regional,Corporate,Silver,2,True,Family,2,Halal
+G0277,Carol,Hernandez,carol.hernandez645@example.com,23,Gen Z,Toronto,ON,International,OTA,None,2,True,Couple,0,Nut Allergy
+G0278,Ronald,Thomas,ronald.thomas10@example.com,36,Millennial,Philadelphia,PA,National,OTA,None,1,False,Solo,0,Vegetarian
+G0279,Melissa,Adams,melissa.adams158@example.com,24,Gen Z,London,UK,International,OTA,None,2,True,Group,0,None
+G0280,Jennifer,Young,jennifer.young724@example.com,43,Millennial,Austin,TX,National,OTA,None,2,True,Family,2,None
+G0281,Brenda,White,brenda.white465@example.com,59,Gen X,Phoenix,AZ,Regional,Direct,Silver,4,True,Family,3,Halal
+G0282,Jerry,Scott,jerry.scott158@example.com,76,Boomer,Nashville,TN,Regional,OTA,None,1,False,Couple,0,Vegan
+G0283,Stephanie,Nelson,stephanie.nelson502@example.com,38,Millennial,San Antonio,TX,Local,Direct,Gold,5,True,Family,2,Vegetarian
+G0284,Pamela,Mitchell,pamela.mitchell961@example.com,29,Millennial,Denver,CO,National,Direct,Gold,9,True,Group,0,None
+G0285,Stephanie,Gonzalez,stephanie.gonzalez198@example.com,26,Gen Z,Sydney,AU,International,Direct,None,2,True,Solo,0,None
+G0286,Raymond,Hernandez,raymond.hernandez547@example.com,41,Millennial,Philadelphia,PA,National,Direct,Gold,9,True,Solo,0,None
+G0287,Sandra,Harris,sandra.harris785@example.com,26,Gen Z,Atlanta,GA,National,Travel Agent,None,2,True,Group,0,Vegetarian
+G0288,Sandra,Lee,sandra.lee23@example.com,42,Millennial,San Jose,CA,Local,Corporate,None,1,False,Group,0,Nut Allergy
+G0289,Sandra,Campbell,sandra.campbell80@example.com,31,Millennial,Chicago,IL,National,OTA,None,2,True,Family,2,Vegetarian
+G0290,Sharon,Davis,sharon.davis891@example.com,43,Millennial,Atlanta,GA,Regional,OTA,Silver,4,True,Family,1,Halal
+G0291,Cynthia,Carter,cynthia.carter610@example.com,29,Millennial,Sydney,AU,International,OTA,None,1,False,Family,3,Nut Allergy
+G0292,Thomas,Carter,thomas.carter139@example.com,41,Millennial,Nashville,TN,National,Corporate,None,2,True,Solo,0,Gluten-Free
+G0293,Jason,White,jason.white357@example.com,59,Gen X,Minneapolis,MN,Local,OTA,None,1,False,Solo,0,Vegan
+G0294,Dennis,Campbell,dennis.campbell874@example.com,71,Boomer,Toronto,ON,International,Travel Agent,Silver,3,True,Solo,0,None
+G0295,Anthony,Wright,anthony.wright536@example.com,61,Boomer,Sydney,AU,International,Direct,Gold,7,True,Family,1,None
+G0296,Mary,Jones,mary.jones398@example.com,32,Millennial,Portland,OR,Regional,OTA,None,1,False,Family,3,None
+G0297,Nicholas,Robinson,nicholas.robinson575@example.com,28,Millennial,Portland,OR,National,Corporate,Gold,8,True,Couple,0,None
+G0298,Nicholas,Moore,nicholas.moore832@example.com,26,Gen Z,San Jose,CA,Regional,OTA,None,1,False,Couple,0,Nut Allergy
+G0299,Benjamin,Baker,benjamin.baker233@example.com,68,Boomer,Boston,MA,National,Travel Agent,None,2,True,Family,2,Vegetarian
+G0300,Alexander,King,alexander.king932@example.com,48,Gen X,San Antonio,TX,National,Corporate,Silver,3,True,Couple,0,None
+G0301,Heather,Green,heather.green956@example.com,64,Boomer,Charlotte,NC,National,OTA,Gold,6,True,Couple,0,None
+G0302,Karen,Allen,karen.allen867@example.com,31,Millennial,Austin,TX,Local,Direct,Gold,8,True,Family,1,Gluten-Free
+G0303,Dennis,Wilson,dennis.wilson68@example.com,40,Millennial,San Diego,CA,National,OTA,None,1,False,Group,0,Nut Allergy
+G0304,Alexander,Williams,alexander.williams534@example.com,74,Boomer,Minneapolis,MN,National,Corporate,Gold,9,True,Group,0,None
+G0305,Andrew,Robinson,andrew.robinson171@example.com,74,Boomer,Nashville,TN,National,OTA,Platinum,9,True,Family,2,Gluten-Free
+G0306,Nicole,Rivera,nicole.rivera918@example.com,48,Gen X,Atlanta,GA,Regional,OTA,Silver,3,True,Family,2,None
+G0307,Shirley,Flores,shirley.flores973@example.com,74,Boomer,Chicago,IL,National,Corporate,Platinum,11,True,Couple,0,None
+G0308,Jerry,Lewis,jerry.lewis296@example.com,77,Boomer,Los Angeles,CA,Regional,Travel Agent,Silver,3,True,Family,3,None
+G0309,Jacob,Robinson,jacob.robinson420@example.com,34,Millennial,Seattle,WA,Regional,OTA,None,2,True,Solo,0,Vegetarian
+G0310,Emma,Hill,emma.hill306@example.com,51,Gen X,Los Angeles,CA,Local,OTA,Silver,2,True,Family,2,None
+G0311,William,Carter,william.carter438@example.com,45,Gen X,San Jose,CA,Regional,Travel Agent,None,2,True,Solo,0,Dairy-Free
+G0312,Anna,Garcia,anna.garcia496@example.com,43,Millennial,Houston,TX,National,Direct,Platinum,14,True,Couple,0,Nut Allergy
+G0313,Ashley,Rivera,ashley.rivera298@example.com,38,Millennial,Seattle,WA,National,OTA,Platinum,23,True,Couple,0,Dairy-Free
+G0314,Katherine,Gonzalez,katherine.gonzalez707@example.com,25,Gen Z,Miami,FL,National,OTA,None,1,False,Solo,0,None
+G0315,Amanda,Baker,amanda.baker491@example.com,53,Gen X,New York,NY,National,OTA,Silver,4,True,Couple,0,None
+G0316,Patrick,Baker,patrick.baker324@example.com,23,Gen Z,Los Angeles,CA,National,OTA,Gold,10,True,Group,0,None
+G0317,Dennis,Martin,dennis.martin723@example.com,38,Millennial,Nashville,TN,Regional,Direct,None,1,False,Couple,0,None
+G0318,Margaret,Garcia,margaret.garcia455@example.com,22,Gen Z,Houston,TX,Regional,OTA,None,2,True,Solo,0,None
+G0319,Anthony,Campbell,anthony.campbell38@example.com,34,Millennial,Toronto,ON,International,Corporate,Gold,5,True,Group,0,Nut Allergy
+G0320,Emma,Carter,emma.carter320@example.com,47,Gen X,Sydney,AU,International,Travel Agent,Gold,7,True,Family,3,None
+G0321,Jessica,Wilson,jessica.wilson556@example.com,34,Millennial,New York,NY,National,Direct,Gold,6,True,Family,1,Vegetarian
+G0322,Jessica,Harris,jessica.harris56@example.com,52,Gen X,New York,NY,Regional,Corporate,Gold,6,True,Solo,0,Vegan
+G0323,Ryan,Martin,ryan.martin701@example.com,72,Boomer,Mexico City,MX,International,Direct,Silver,2,True,Solo,0,None
+G0324,Jacob,Davis,jacob.davis360@example.com,35,Millennial,Atlanta,GA,Regional,Direct,Platinum,13,True,Couple,0,None
+G0325,Donald,Flores,donald.flores250@example.com,53,Gen X,Miami,FL,Regional,OTA,None,2,True,Couple,0,Vegetarian
+G0326,Jack,Rivera,jack.rivera588@example.com,30,Millennial,Toronto,ON,International,Direct,Gold,8,True,Solo,0,Vegan
+G0327,Linda,Garcia,linda.garcia223@example.com,38,Millennial,Nashville,TN,Regional,Direct,Silver,5,True,Couple,0,Vegetarian
+G0328,Laura,Rivera,laura.rivera938@example.com,32,Millennial,Minneapolis,MN,National,Direct,Gold,5,True,Solo,0,Vegan
+G0329,Carolyn,Nguyen,carolyn.nguyen404@example.com,44,Gen X,San Jose,CA,National,Corporate,None,1,False,Couple,0,None
+G0330,Debra,Rodriguez,debra.rodriguez138@example.com,40,Millennial,Charlotte,NC,Regional,OTA,Silver,3,True,Family,2,Nut Allergy
+G0331,Jason,Flores,jason.flores185@example.com,60,Boomer,Mexico City,MX,International,Direct,Platinum,21,True,Group,0,Vegetarian
+G0332,Robert,Torres,robert.torres495@example.com,58,Gen X,Miami,FL,National,Direct,Silver,5,True,Solo,0,None
+G0333,Debra,Jones,debra.jones701@example.com,30,Millennial,San Diego,CA,Regional,OTA,None,2,True,Couple,0,Gluten-Free
+G0334,Scott,Mitchell,scott.mitchell312@example.com,29,Millennial,San Jose,CA,Regional,OTA,None,2,True,Family,2,Vegan
+G0335,Emily,Taylor,emily.taylor136@example.com,29,Millennial,Phoenix,AZ,National,OTA,None,1,False,Family,1,Kosher
+G0336,Robert,Perez,robert.perez87@example.com,28,Millennial,San Diego,CA,Regional,Direct,None,1,False,Family,3,Gluten-Free
+G0337,Nancy,Robinson,nancy.robinson409@example.com,25,Gen Z,Dallas,TX,National,OTA,None,1,False,Solo,0,None
+G0338,Anna,Baker,anna.baker979@example.com,51,Gen X,Toronto,ON,International,Corporate,Gold,4,True,Couple,0,None
+G0339,Donald,Campbell,donald.campbell689@example.com,77,Boomer,Nashville,TN,Regional,Travel Agent,Gold,6,True,Family,3,Vegan
+G0340,Matthew,Williams,matthew.williams25@example.com,33,Millennial,Austin,TX,Regional,OTA,Silver,2,True,Couple,0,None
+G0341,Barbara,Green,barbara.green465@example.com,31,Millennial,Dallas,TX,Regional,Corporate,None,1,False,Couple,0,Vegan
+G0342,Jeffrey,Jones,jeffrey.jones504@example.com,24,Gen Z,Dallas,TX,National,Direct,None,1,False,Group,0,None
+G0343,Robert,Jones,robert.jones73@example.com,27,Gen Z,Mexico City,MX,International,OTA,None,2,True,Group,0,None
+G0344,Jerry,Young,jerry.young490@example.com,28,Millennial,Minneapolis,MN,Local,Direct,Gold,6,True,Group,0,Vegan
+G0345,Linda,Green,linda.green982@example.com,51,Gen X,Toronto,ON,International,Travel Agent,Gold,8,True,Couple,0,None
+G0346,Benjamin,Hall,benjamin.hall368@example.com,30,Millennial,San Jose,CA,National,OTA,None,1,False,Couple,0,Dairy-Free
+G0347,Cynthia,Johnson,cynthia.johnson38@example.com,50,Gen X,Seattle,WA,National,Direct,Gold,7,True,Couple,0,Halal
+G0348,Samantha,Williams,samantha.williams249@example.com,45,Gen X,Phoenix,AZ,Regional,Direct,Gold,9,True,Solo,0,None
+G0349,Brandon,Anderson,brandon.anderson65@example.com,33,Millennial,Houston,TX,Local,Direct,Silver,5,True,Solo,0,Vegetarian
+G0350,Dennis,Clark,dennis.clark173@example.com,40,Millennial,Atlanta,GA,Local,Direct,Gold,10,True,Couple,0,None
+G0351,Susan,Rivera,susan.rivera668@example.com,42,Millennial,Chicago,IL,Local,Corporate,None,1,False,Family,2,None
+G0352,Brandon,Garcia,brandon.garcia643@example.com,43,Millennial,Los Angeles,CA,National,Direct,None,2,True,Couple,0,Vegan
+G0353,Emily,Brown,emily.brown199@example.com,41,Millennial,London,UK,International,OTA,None,1,False,Couple,0,Vegan
+G0354,Jonathan,Lopez,jonathan.lopez162@example.com,64,Boomer,Denver,CO,Local,Direct,Platinum,14,True,Solo,0,Gluten-Free
+G0355,Edward,Gonzalez,edward.gonzalez385@example.com,30,Millennial,Atlanta,GA,Regional,OTA,None,2,True,Family,1,None
+G0356,Melissa,Moore,melissa.moore208@example.com,22,Gen Z,Sydney,AU,International,Corporate,None,2,True,Solo,0,None
+G0357,Brandon,Hernandez,brandon.hernandez592@example.com,45,Gen X,Portland,OR,Regional,Direct,Silver,3,True,Family,2,Gluten-Free
+G0358,Dorothy,Lee,dorothy.lee445@example.com,26,Gen Z,Sydney,AU,International,OTA,Platinum,8,True,Couple,0,Kosher
+G0359,Pamela,Carter,pamela.carter13@example.com,28,Millennial,Houston,TX,Regional,Travel Agent,None,2,True,Family,3,None
+G0360,Ryan,Robinson,ryan.robinson791@example.com,32,Millennial,Minneapolis,MN,National,Direct,Gold,7,True,Family,2,None
+G0361,Emma,Wilson,emma.wilson807@example.com,72,Boomer,Dallas,TX,National,OTA,Silver,5,True,Solo,0,Vegetarian
+G0362,Kevin,Thomas,kevin.thomas553@example.com,39,Millennial,Miami,FL,National,Direct,Silver,4,True,Couple,0,None
+G0363,Alexander,Wright,alexander.wright695@example.com,75,Boomer,Boston,MA,National,Direct,Silver,4,True,Couple,0,None
+G0364,Nancy,Moore,nancy.moore115@example.com,39,Millennial,San Jose,CA,National,Corporate,Platinum,10,True,Family,1,None
+G0365,Matthew,Jones,matthew.jones23@example.com,34,Millennial,London,UK,International,Corporate,None,2,True,Family,3,None
+G0366,Michelle,Hernandez,michelle.hernandez809@example.com,26,Gen Z,Denver,CO,Regional,OTA,Silver,5,True,Group,0,Vegetarian
+G0367,Debra,Martinez,debra.martinez166@example.com,55,Gen X,Mexico City,MX,International,Direct,Silver,3,True,Family,1,Vegan
+G0368,Patricia,Sanchez,patricia.sanchez954@example.com,61,Boomer,Philadelphia,PA,National,Direct,None,1,False,Couple,0,None
+G0369,Maria,Lewis,maria.lewis347@example.com,58,Gen X,Minneapolis,MN,National,Direct,Gold,7,True,Couple,0,Gluten-Free
+G0370,Mark,Roberts,mark.roberts285@example.com,32,Millennial,Portland,OR,National,OTA,None,2,True,Family,1,Vegetarian
+G0371,Brian,Martin,brian.martin457@example.com,62,Boomer,Nashville,TN,Regional,Direct,Silver,4,True,Couple,0,None
+G0372,Susan,Martinez,susan.martinez213@example.com,27,Gen Z,Charlotte,NC,Local,Travel Agent,Gold,10,True,Couple,0,Vegetarian
+G0373,Donna,Scott,donna.scott503@example.com,54,Gen X,Phoenix,AZ,Regional,Corporate,None,2,True,Couple,0,Halal
+G0374,Andrew,Clark,andrew.clark184@example.com,69,Boomer,Seattle,WA,Local,Corporate,Silver,3,True,Group,0,Vegan
+G0375,Deborah,Allen,deborah.allen751@example.com,44,Gen X,Seattle,WA,National,OTA,Platinum,21,True,Couple,0,Halal
+G0376,Melissa,Brown,melissa.brown297@example.com,29,Millennial,London,UK,International,OTA,Gold,5,True,Family,2,Dairy-Free
+G0377,Jonathan,Nguyen,jonathan.nguyen361@example.com,50,Gen X,Mexico City,MX,International,OTA,None,2,True,Family,3,None
+G0378,Anna,Wright,anna.wright730@example.com,37,Millennial,Miami,FL,National,OTA,None,1,False,Group,0,Halal
+G0379,Diane,Perez,diane.perez177@example.com,42,Millennial,Denver,CO,National,Direct,None,1,False,Solo,0,Vegetarian
+G0380,Barbara,Johnson,barbara.johnson794@example.com,35,Millennial,Charlotte,NC,National,Corporate,None,1,False,Family,1,Gluten-Free
+G0381,Richard,Davis,richard.davis943@example.com,45,Gen X,Toronto,ON,International,Direct,Gold,4,True,Family,2,None
+G0382,Richard,Nguyen,richard.nguyen782@example.com,33,Millennial,Portland,OR,Regional,OTA,None,2,True,Couple,0,Vegetarian
+G0383,Melissa,Harris,melissa.harris435@example.com,66,Boomer,Denver,CO,National,Travel Agent,Silver,3,True,Couple,0,None
+G0384,Stephanie,Jackson,stephanie.jackson468@example.com,67,Boomer,Los Angeles,CA,Local,Direct,None,1,False,Couple,0,None
+G0385,Mary,Baker,mary.baker504@example.com,35,Millennial,Toronto,ON,International,OTA,Platinum,10,True,Group,0,None
+G0386,Ashley,Ramirez,ashley.ramirez743@example.com,30,Millennial,Portland,OR,National,Direct,Silver,3,True,Solo,0,None
+G0387,Ashley,Green,ashley.green966@example.com,52,Gen X,Houston,TX,Local,OTA,Silver,5,True,Family,2,None
+G0388,Angela,Robinson,angela.robinson207@example.com,63,Boomer,Chicago,IL,National,Corporate,Platinum,17,True,Solo,0,None
+G0389,Daniel,Scott,daniel.scott676@example.com,59,Gen X,Nashville,TN,Regional,Direct,Platinum,11,True,Family,2,None
+G0390,Jacob,Walker,jacob.walker576@example.com,25,Gen Z,Toronto,ON,International,Direct,Gold,8,True,Couple,0,None
+G0391,Jack,Nguyen,jack.nguyen28@example.com,24,Gen Z,Los Angeles,CA,Local,OTA,Platinum,9,True,Solo,0,None
+G0392,William,Martin,william.martin118@example.com,31,Millennial,San Jose,CA,National,OTA,None,2,True,Family,3,Dairy-Free
+G0393,Richard,Young,richard.young103@example.com,54,Gen X,Nashville,TN,National,Corporate,Gold,4,True,Group,0,None
+G0394,Andrew,Taylor,andrew.taylor49@example.com,43,Millennial,Chicago,IL,National,Corporate,Gold,6,True,Family,3,None
+G0395,Christine,Martin,christine.martin517@example.com,56,Gen X,Charlotte,NC,Regional,Corporate,None,1,False,Couple,0,Gluten-Free
+G0396,Kathleen,Moore,kathleen.moore960@example.com,34,Millennial,San Antonio,TX,National,OTA,Silver,3,True,Couple,0,Halal
+G0397,Edward,Moore,edward.moore844@example.com,34,Millennial,London,UK,International,OTA,None,2,True,Group,0,None
+G0398,Margaret,Hernandez,margaret.hernandez280@example.com,52,Gen X,Charlotte,NC,Regional,Direct,None,1,False,Couple,0,Dairy-Free
+G0399,George,Nelson,george.nelson674@example.com,68,Boomer,Chicago,IL,National,Corporate,Platinum,10,True,Solo,0,None
+G0400,Justin,Mitchell,justin.mitchell400@example.com,22,Gen Z,Houston,TX,National,OTA,None,1,False,Solo,0,None
+G0401,Kenneth,Wright,kenneth.wright434@example.com,34,Millennial,Miami,FL,Regional,Direct,Silver,5,True,Solo,0,Dairy-Free
+G0402,Donald,Taylor,donald.taylor566@example.com,52,Gen X,Los Angeles,CA,National,OTA,None,2,True,Couple,0,Gluten-Free
+G0403,Jeffrey,Green,jeffrey.green325@example.com,47,Gen X,San Jose,CA,Regional,OTA,Gold,6,True,Couple,0,Dairy-Free
+G0404,Nicholas,Jones,nicholas.jones361@example.com,22,Gen Z,Houston,TX,National,OTA,Gold,10,True,Couple,0,Vegan
+G0405,Emma,Garcia,emma.garcia114@example.com,54,Gen X,London,UK,International,Direct,None,1,False,Family,1,None
+G0406,Timothy,Torres,timothy.torres230@example.com,76,Boomer,Charlotte,NC,Regional,OTA,Gold,5,True,Solo,0,None
+G0407,Mary,Rivera,mary.rivera539@example.com,60,Boomer,Austin,TX,Regional,Direct,Gold,7,True,Solo,0,Vegetarian
+G0408,Andrew,Campbell,andrew.campbell694@example.com,59,Gen X,San Antonio,TX,National,Corporate,Silver,4,True,Family,2,Nut Allergy
+G0409,Ronald,Baker,ronald.baker218@example.com,65,Boomer,Phoenix,AZ,National,Direct,Silver,3,True,Family,2,Nut Allergy
+G0410,Debra,White,debra.white136@example.com,30,Millennial,Portland,OR,Regional,OTA,None,1,False,Family,3,Nut Allergy
+G0411,Kenneth,Williams,kenneth.williams131@example.com,24,Gen Z,Boston,MA,Regional,Direct,Silver,5,True,Solo,0,None
+G0412,Katherine,Lewis,katherine.lewis55@example.com,55,Gen X,Phoenix,AZ,National,Corporate,Silver,4,True,Family,2,Dairy-Free
+G0413,Ryan,Young,ryan.young116@example.com,61,Boomer,Mexico City,MX,International,OTA,None,2,True,Family,2,Vegetarian
+G0414,Barbara,Thomas,barbara.thomas787@example.com,39,Millennial,Boston,MA,National,Direct,Silver,4,True,Group,0,None
+G0415,Amy,Robinson,amy.robinson644@example.com,54,Gen X,Chicago,IL,Regional,Corporate,Gold,8,True,Solo,0,Vegan
+G0416,Barbara,Scott,barbara.scott975@example.com,27,Gen Z,San Jose,CA,Regional,OTA,None,1,False,Group,0,None
+G0417,Lisa,Davis,lisa.davis306@example.com,36,Millennial,San Jose,CA,National,Direct,Gold,4,True,Family,2,Nut Allergy
+G0418,Deborah,Flores,deborah.flores191@example.com,53,Gen X,Charlotte,NC,Local,Corporate,Platinum,20,True,Couple,0,None
+G0419,Amy,Martin,amy.martin153@example.com,46,Gen X,San Jose,CA,Regional,Direct,Silver,3,True,Couple,0,None
+G0420,Steven,Thompson,steven.thompson261@example.com,24,Gen Z,Denver,CO,National,OTA,None,1,False,Couple,0,Vegetarian
+G0421,Dennis,Nelson,dennis.nelson461@example.com,31,Millennial,San Jose,CA,Regional,OTA,None,1,False,Family,3,Gluten-Free
+G0422,Ryan,Hall,ryan.hall415@example.com,33,Millennial,Houston,TX,Local,Direct,Gold,7,True,Family,2,Vegan
+G0423,Matthew,Johnson,matthew.johnson215@example.com,27,Gen Z,San Antonio,TX,Local,OTA,Silver,4,True,Solo,0,None
+G0424,Jack,Hall,jack.hall456@example.com,51,Gen X,New York,NY,Local,Corporate,Gold,10,True,Family,2,Dairy-Free
+G0425,Sharon,Young,sharon.young755@example.com,26,Gen Z,Mexico City,MX,International,OTA,None,2,True,Solo,0,None
+G0426,Samuel,Clark,samuel.clark911@example.com,29,Millennial,Atlanta,GA,National,OTA,None,2,True,Couple,0,None
+G0427,Helen,Rivera,helen.rivera673@example.com,55,Gen X,Minneapolis,MN,National,OTA,None,1,False,Family,1,None
+G0428,Margaret,Hernandez,margaret.hernandez621@example.com,56,Gen X,Chicago,IL,National,Corporate,Silver,3,True,Family,3,None
+G0429,Laura,Davis,laura.davis633@example.com,59,Gen X,Boston,MA,Local,Direct,None,1,False,Solo,0,None
+G0430,Ryan,Carter,ryan.carter114@example.com,77,Boomer,Los Angeles,CA,National,Travel Agent,Gold,5,True,Solo,0,None
+G0431,Lisa,Adams,lisa.adams373@example.com,23,Gen Z,Boston,MA,Regional,OTA,Gold,9,True,Couple,0,Kosher
+G0432,Dennis,Clark,dennis.clark370@example.com,47,Gen X,Philadelphia,PA,Local,Travel Agent,Gold,10,True,Family,3,None
+G0433,Janet,King,janet.king967@example.com,41,Millennial,New York,NY,Regional,Direct,Silver,5,True,Couple,0,Gluten-Free
+G0434,Donna,Clark,donna.clark412@example.com,70,Boomer,Toronto,ON,International,Direct,Silver,3,True,Group,0,Kosher
+G0435,Carolyn,Thompson,carolyn.thompson909@example.com,24,Gen Z,Portland,OR,National,Direct,Silver,5,True,Group,0,Vegan
+G0436,Patricia,Wright,patricia.wright607@example.com,37,Millennial,Atlanta,GA,National,Direct,Silver,4,True,Solo,0,None
+G0437,Amanda,Thomas,amanda.thomas825@example.com,57,Gen X,Sydney,AU,International,Direct,Silver,2,True,Family,3,None
+G0438,Ryan,Miller,ryan.miller151@example.com,39,Millennial,Minneapolis,MN,Regional,Direct,Gold,8,True,Family,3,Gluten-Free
+G0439,Kimberly,Nguyen,kimberly.nguyen511@example.com,30,Millennial,Miami,FL,National,OTA,None,1,False,Couple,0,None
+G0440,Christopher,Scott,christopher.scott379@example.com,41,Millennial,San Antonio,TX,Regional,Direct,None,2,True,Solo,0,None
+G0441,Charles,Martinez,charles.martinez803@example.com,22,Gen Z,San Jose,CA,Regional,OTA,None,1,False,Group,0,None
+G0442,Cynthia,Perez,cynthia.perez801@example.com,37,Millennial,Charlotte,NC,Regional,Direct,Gold,8,True,Family,1,None
+G0443,Jeffrey,Mitchell,jeffrey.mitchell285@example.com,48,Gen X,Atlanta,GA,National,Corporate,None,2,True,Family,2,Nut Allergy
+G0444,Nicholas,Johnson,nicholas.johnson124@example.com,37,Millennial,Minneapolis,MN,National,OTA,Silver,3,True,Solo,0,Gluten-Free
+G0445,Amanda,Ramirez,amanda.ramirez185@example.com,28,Millennial,Los Angeles,CA,Regional,Corporate,Silver,2,True,Couple,0,Dairy-Free
+G0446,Nancy,Brown,nancy.brown630@example.com,54,Gen X,Phoenix,AZ,Regional,Direct,Platinum,13,True,Family,1,None
+G0447,Scott,Nguyen,scott.nguyen243@example.com,24,Gen Z,Houston,TX,Local,OTA,None,2,True,Group,0,None
+G0448,Gregory,Miller,gregory.miller253@example.com,56,Gen X,New York,NY,Regional,Direct,Silver,2,True,Family,1,Nut Allergy
+G0449,Pamela,Lewis,pamela.lewis43@example.com,41,Millennial,Miami,FL,National,Direct,Gold,6,True,Couple,0,Nut Allergy
+G0450,Jennifer,Hernandez,jennifer.hernandez757@example.com,74,Boomer,San Antonio,TX,National,Direct,Platinum,20,True,Group,0,None
+G0451,Katherine,Taylor,katherine.taylor771@example.com,30,Millennial,Toronto,ON,International,OTA,Silver,5,True,Solo,0,Dairy-Free
+G0452,Daniel,Clark,daniel.clark570@example.com,38,Millennial,Seattle,WA,Local,Direct,Platinum,12,True,Solo,0,None
+G0453,Carolyn,Smith,carolyn.smith128@example.com,27,Gen Z,Austin,TX,Regional,OTA,None,2,True,Group,0,Halal
+G0454,Angela,Rivera,angela.rivera724@example.com,58,Gen X,Seattle,WA,National,Corporate,Platinum,17,True,Solo,0,None
+G0455,Daniel,Jones,daniel.jones603@example.com,40,Millennial,Toronto,ON,International,Corporate,Gold,8,True,Couple,0,Vegetarian
+G0456,Ryan,Smith,ryan.smith961@example.com,62,Boomer,Miami,FL,National,Corporate,Platinum,8,True,Couple,0,Vegan
+G0457,Jonathan,Lewis,jonathan.lewis324@example.com,54,Gen X,San Diego,CA,Local,Direct,Gold,6,True,Group,0,Dairy-Free
+G0458,Patricia,Walker,patricia.walker443@example.com,66,Boomer,San Jose,CA,Local,Corporate,Platinum,15,True,Family,2,Vegetarian
+G0459,Diane,Miller,diane.miller641@example.com,36,Millennial,Chicago,IL,National,Direct,Silver,2,True,Solo,0,Vegetarian
+G0460,Jessica,Baker,jessica.baker58@example.com,46,Gen X,London,UK,International,OTA,Gold,4,True,Family,3,None
+G0461,Gregory,Johnson,gregory.johnson465@example.com,40,Millennial,Portland,OR,Local,OTA,None,1,False,Group,0,Vegan
+G0462,Dorothy,Rodriguez,dorothy.rodriguez817@example.com,31,Millennial,Seattle,WA,National,Direct,Gold,9,True,Family,2,None
+G0463,Raymond,Baker,raymond.baker149@example.com,64,Boomer,Austin,TX,National,Travel Agent,Gold,5,True,Solo,0,None
+G0464,Justin,Torres,justin.torres987@example.com,76,Boomer,Denver,CO,National,Direct,Silver,2,True,Couple,0,None
+G0465,Jack,Roberts,jack.roberts976@example.com,57,Gen X,Denver,CO,National,Direct,Platinum,8,True,Couple,0,None
+G0466,Diane,White,diane.white45@example.com,40,Millennial,Denver,CO,Regional,Corporate,None,1,False,Solo,0,Vegetarian
+G0467,Richard,Johnson,richard.johnson852@example.com,23,Gen Z,San Antonio,TX,Local,Direct,Silver,4,True,Solo,0,Halal
+G0468,Matthew,Gonzalez,matthew.gonzalez546@example.com,38,Millennial,Phoenix,AZ,National,OTA,None,2,True,Solo,0,None
+G0469,Thomas,Allen,thomas.allen992@example.com,54,Gen X,London,UK,International,Direct,None,1,False,Family,1,Gluten-Free
+G0470,Anna,Hall,anna.hall495@example.com,30,Millennial,Denver,CO,Regional,Corporate,Gold,10,True,Family,3,Vegan
+G0471,Emma,Hernandez,emma.hernandez958@example.com,36,Millennial,San Antonio,TX,Regional,OTA,Gold,5,True,Solo,0,Dairy-Free
+G0472,Angela,Lee,angela.lee280@example.com,32,Millennial,Denver,CO,Regional,Direct,Gold,7,True,Couple,0,None
+G0473,Barbara,White,barbara.white40@example.com,58,Gen X,Dallas,TX,National,OTA,None,1,False,Couple,0,None
+G0474,Kimberly,Smith,kimberly.smith789@example.com,38,Millennial,Sydney,AU,International,OTA,Silver,3,True,Couple,0,None
+G0475,Dennis,Robinson,dennis.robinson740@example.com,56,Gen X,San Diego,CA,National,Corporate,None,1,False,Solo,0,Gluten-Free
+G0476,Jack,Smith,jack.smith512@example.com,38,Millennial,Phoenix,AZ,National,OTA,Gold,7,True,Solo,0,None
+G0477,Kevin,Torres,kevin.torres645@example.com,35,Millennial,Phoenix,AZ,Regional,OTA,Silver,4,True,Solo,0,Nut Allergy
+G0478,Susan,Hernandez,susan.hernandez107@example.com,40,Millennial,London,UK,International,Corporate,None,2,True,Family,2,Dairy-Free
+G0479,Mary,Hernandez,mary.hernandez335@example.com,43,Millennial,Chicago,IL,Regional,Direct,None,2,True,Family,3,None
+G0480,Debra,Walker,debra.walker163@example.com,22,Gen Z,San Antonio,TX,Regional,Direct,Silver,5,True,Solo,0,Halal
+G0481,Ryan,Robinson,ryan.robinson590@example.com,42,Millennial,Atlanta,GA,National,Direct,Platinum,20,True,Solo,0,Kosher
+G0482,Raymond,Lopez,raymond.lopez716@example.com,62,Boomer,Portland,OR,National,Corporate,Gold,8,True,Solo,0,None
+G0483,Dennis,Miller,dennis.miller517@example.com,35,Millennial,Miami,FL,Local,Direct,Gold,9,True,Couple,0,None
+G0484,Mary,Taylor,mary.taylor118@example.com,42,Millennial,Nashville,TN,National,Direct,Gold,4,True,Family,3,None
+G0485,Daniel,Jackson,daniel.jackson128@example.com,42,Millennial,Philadelphia,PA,National,OTA,None,1,False,Group,0,Vegetarian
+G0486,Jeffrey,Hall,jeffrey.hall49@example.com,30,Millennial,Toronto,ON,International,OTA,Silver,5,True,Family,1,None
+G0487,John,Clark,john.clark29@example.com,40,Millennial,Austin,TX,National,OTA,None,1,False,Group,0,None
+G0488,Samantha,Wilson,samantha.wilson957@example.com,23,Gen Z,Atlanta,GA,Regional,Corporate,None,1,False,Couple,0,Vegetarian
+G0489,Emily,Adams,emily.adams639@example.com,35,Millennial,Denver,CO,Regional,Direct,Silver,5,True,Family,1,Vegan
+G0490,Jerry,Hall,jerry.hall137@example.com,50,Gen X,Mexico City,MX,International,Corporate,Gold,6,True,Group,0,None
+G0491,Sarah,Martin,sarah.martin243@example.com,59,Gen X,New York,NY,Regional,Direct,Platinum,15,True,Couple,0,Vegetarian
+G0492,Kevin,Rodriguez,kevin.rodriguez285@example.com,29,Millennial,Portland,OR,National,OTA,None,1,False,Family,3,None
+G0493,Mark,Hill,mark.hill894@example.com,57,Gen X,San Diego,CA,National,Direct,Gold,5,True,Family,3,Vegan
+G0494,Anthony,Thomas,anthony.thomas520@example.com,49,Gen X,Philadelphia,PA,National,Direct,Platinum,12,True,Solo,0,Halal
+G0495,Ronald,Harris,ronald.harris172@example.com,74,Boomer,Seattle,WA,Local,Direct,Silver,4,True,Solo,0,Nut Allergy
+G0496,Ryan,Jackson,ryan.jackson385@example.com,57,Gen X,Philadelphia,PA,Regional,Direct,Silver,4,True,Family,3,None
+G0497,Heather,White,heather.white394@example.com,38,Millennial,Nashville,TN,National,OTA,None,1,False,Couple,0,Dairy-Free
+G0498,Alexander,Young,alexander.young651@example.com,46,Gen X,Sydney,AU,International,Travel Agent,None,1,False,Couple,0,None
+G0499,Dorothy,Hill,dorothy.hill593@example.com,41,Millennial,Toronto,ON,International,Direct,Silver,2,True,Family,2,None
+G0500,Joshua,Allen,joshua.allen991@example.com,22,Gen Z,Philadelphia,PA,National,OTA,Gold,8,True,Group,0,None
+G0501,Gary,Smith,gary.smith100@example.com,41,Millennial,San Jose,CA,Local,Corporate,None,2,True,Couple,0,None
+G0502,Margaret,Brown,margaret.brown768@example.com,73,Boomer,Denver,CO,National,Direct,None,1,False,Family,1,None
+G0503,Gary,Baker,gary.baker779@example.com,66,Boomer,Atlanta,GA,Local,OTA,Silver,2,True,Solo,0,None
+G0504,Amanda,Hill,amanda.hill440@example.com,61,Boomer,Dallas,TX,National,OTA,Platinum,8,True,Couple,0,None
+G0505,Karen,Johnson,karen.johnson617@example.com,54,Gen X,Mexico City,MX,International,Corporate,Silver,4,True,Solo,0,None
+G0506,Jennifer,Mitchell,jennifer.mitchell334@example.com,76,Boomer,Atlanta,GA,Local,OTA,Silver,5,True,Family,3,None
+G0507,Emma,Rivera,emma.rivera517@example.com,40,Millennial,San Antonio,TX,National,OTA,None,2,True,Solo,0,Kosher
+G0508,Raymond,Hall,raymond.hall92@example.com,75,Boomer,San Diego,CA,Regional,Travel Agent,Platinum,11,True,Couple,0,Gluten-Free
+G0509,Susan,Hall,susan.hall341@example.com,60,Boomer,London,UK,International,Corporate,Silver,5,True,Group,0,Gluten-Free
+G0510,Amanda,Mitchell,amanda.mitchell607@example.com,25,Gen Z,Houston,TX,Regional,Corporate,Gold,10,True,Solo,0,None
+G0511,George,Baker,george.baker957@example.com,24,Gen Z,Nashville,TN,National,Corporate,Gold,4,True,Solo,0,None
+G0512,Heather,Nelson,heather.nelson870@example.com,31,Millennial,Denver,CO,Local,Direct,Platinum,17,True,Couple,0,None
+G0513,Maria,Anderson,maria.anderson718@example.com,37,Millennial,Atlanta,GA,Regional,Travel Agent,None,2,True,Couple,0,Vegan
+G0514,Ronald,Jones,ronald.jones541@example.com,40,Millennial,Seattle,WA,National,Travel Agent,Gold,8,True,Family,3,Gluten-Free
+G0515,Sandra,Mitchell,sandra.mitchell201@example.com,40,Millennial,Seattle,WA,Regional,Direct,Gold,7,True,Couple,0,None
+G0516,Shirley,Adams,shirley.adams347@example.com,31,Millennial,Seattle,WA,Regional,Corporate,Platinum,13,True,Solo,0,None
+G0517,Julie,Robinson,julie.robinson886@example.com,35,Millennial,Toronto,ON,International,Direct,Silver,3,True,Group,0,Vegan
+G0518,Frank,Mitchell,frank.mitchell97@example.com,42,Millennial,Minneapolis,MN,National,Direct,None,1,False,Family,3,None
+G0519,John,Sanchez,john.sanchez570@example.com,43,Millennial,Miami,FL,Regional,OTA,None,1,False,Group,0,Halal
+G0520,Pamela,Lewis,pamela.lewis820@example.com,30,Millennial,Mexico City,MX,International,Corporate,Gold,9,True,Family,3,None
+G0521,James,Thomas,james.thomas308@example.com,48,Gen X,Philadelphia,PA,Regional,Direct,Gold,4,True,Family,3,Dairy-Free
+G0522,Sandra,Rodriguez,sandra.rodriguez617@example.com,76,Boomer,Los Angeles,CA,Regional,OTA,Silver,3,True,Solo,0,None
+G0523,Charles,Wright,charles.wright209@example.com,36,Millennial,Dallas,TX,National,OTA,None,2,True,Family,1,Dairy-Free
+G0524,Barbara,Moore,barbara.moore128@example.com,68,Boomer,Nashville,TN,Local,Corporate,Platinum,12,True,Couple,0,Vegetarian
+G0525,Jessica,Davis,jessica.davis180@example.com,30,Millennial,Nashville,TN,National,OTA,None,2,True,Family,1,None
+G0526,Gregory,Wright,gregory.wright565@example.com,31,Millennial,Nashville,TN,Regional,OTA,None,2,True,Solo,0,Halal
+G0527,Deborah,Rivera,deborah.rivera797@example.com,32,Millennial,Sydney,AU,International,Direct,Gold,5,True,Solo,0,Vegetarian
+G0528,Michelle,Clark,michelle.clark790@example.com,73,Boomer,San Diego,CA,Regional,Travel Agent,Gold,7,True,Group,0,Kosher
+G0529,Shirley,Campbell,shirley.campbell140@example.com,46,Gen X,New York,NY,National,Direct,None,1,False,Couple,0,None
+G0530,Anna,Baker,anna.baker624@example.com,47,Gen X,Sydney,AU,International,OTA,Gold,9,True,Solo,0,Vegan
+G0531,Brenda,Roberts,brenda.roberts879@example.com,74,Boomer,Houston,TX,Regional,Direct,Platinum,23,True,Couple,0,Vegan
+G0532,Linda,Thompson,linda.thompson7@example.com,69,Boomer,Denver,CO,National,Direct,Gold,6,True,Solo,0,Halal
+G0533,Lisa,Clark,lisa.clark127@example.com,39,Millennial,San Antonio,TX,Local,Direct,Platinum,8,True,Family,2,None
+G0534,Jeffrey,Hernandez,jeffrey.hernandez144@example.com,23,Gen Z,Houston,TX,National,OTA,None,2,True,Group,0,Vegan
+G0535,Debra,Moore,debra.moore122@example.com,44,Gen X,Philadelphia,PA,National,Direct,None,1,False,Group,0,Dairy-Free
+G0536,Jerry,Baker,jerry.baker243@example.com,59,Gen X,Phoenix,AZ,Regional,Corporate,Platinum,11,True,Couple,0,None
+G0537,Carolyn,Thomas,carolyn.thomas683@example.com,70,Boomer,Dallas,TX,National,OTA,None,1,False,Solo,0,Kosher
+G0538,Jason,Johnson,jason.johnson632@example.com,31,Millennial,Dallas,TX,National,OTA,Silver,3,True,Family,1,Dairy-Free
+G0539,Joseph,Moore,joseph.moore373@example.com,61,Boomer,London,UK,International,Direct,Gold,6,True,Couple,0,None
+G0540,Betty,Taylor,betty.taylor972@example.com,57,Gen X,Dallas,TX,National,Corporate,Silver,2,True,Family,2,None
+G0541,Anthony,Nguyen,anthony.nguyen394@example.com,53,Gen X,Portland,OR,Regional,Corporate,Gold,6,True,Couple,0,Vegan
+G0542,Jacob,Carter,jacob.carter207@example.com,63,Boomer,Miami,FL,National,OTA,Gold,9,True,Solo,0,None
+G0543,John,Hernandez,john.hernandez614@example.com,32,Millennial,Charlotte,NC,National,OTA,Silver,4,True,Solo,0,Nut Allergy
+G0544,Pamela,Roberts,pamela.roberts400@example.com,53,Gen X,Philadelphia,PA,Regional,Direct,Platinum,25,True,Group,0,None
+G0545,Nancy,Anderson,nancy.anderson47@example.com,50,Gen X,San Jose,CA,National,Direct,Silver,5,True,Family,1,Vegetarian
+G0546,Carol,Garcia,carol.garcia970@example.com,32,Millennial,Austin,TX,National,Corporate,Silver,3,True,Solo,0,Nut Allergy
+G0547,Raymond,Roberts,raymond.roberts962@example.com,32,Millennial,Philadelphia,PA,Regional,Corporate,Silver,2,True,Family,2,None
+G0548,Patrick,Ramirez,patrick.ramirez378@example.com,36,Millennial,Nashville,TN,Regional,OTA,None,2,True,Family,3,None
+G0549,Daniel,Sanchez,daniel.sanchez704@example.com,75,Boomer,San Jose,CA,Local,OTA,Silver,3,True,Solo,0,None
+G0550,Joseph,Smith,joseph.smith782@example.com,30,Millennial,Portland,OR,Local,Direct,Platinum,24,True,Family,1,None
+G0551,Karen,Walker,karen.walker778@example.com,35,Millennial,Mexico City,MX,International,Direct,Platinum,11,True,Group,0,None
+G0552,Charles,Smith,charles.smith935@example.com,37,Millennial,Houston,TX,National,OTA,None,2,True,Family,2,Halal
+G0553,Sarah,White,sarah.white946@example.com,67,Boomer,San Jose,CA,Regional,Direct,Silver,2,True,Solo,0,Vegetarian
+G0554,Angela,Nelson,angela.nelson378@example.com,23,Gen Z,San Jose,CA,Regional,OTA,None,1,False,Couple,0,None
+G0555,Susan,Lee,susan.lee131@example.com,27,Gen Z,Charlotte,NC,National,Direct,None,2,True,Solo,0,None
+G0556,Ashley,Harris,ashley.harris86@example.com,72,Boomer,Miami,FL,National,Direct,Gold,5,True,Couple,0,None
+G0557,Julie,Rodriguez,julie.rodriguez302@example.com,30,Millennial,Los Angeles,CA,National,OTA,None,1,False,Group,0,None
+G0558,Deborah,Brown,deborah.brown719@example.com,57,Gen X,Mexico City,MX,International,Corporate,None,1,False,Family,1,Nut Allergy
+G0559,Heather,Rodriguez,heather.rodriguez767@example.com,78,Boomer,Charlotte,NC,Local,Corporate,None,2,True,Family,3,None
+G0560,Christopher,Smith,christopher.smith406@example.com,41,Millennial,Los Angeles,CA,National,OTA,Silver,4,True,Family,3,None
+G0561,Ronald,Lopez,ronald.lopez843@example.com,37,Millennial,San Antonio,TX,Regional,Direct,Platinum,20,True,Solo,0,None
+G0562,Julie,Perez,julie.perez29@example.com,42,Millennial,Houston,TX,Local,OTA,Silver,3,True,Solo,0,None
+G0563,Jennifer,Torres,jennifer.torres810@example.com,65,Boomer,Dallas,TX,Local,OTA,Silver,3,True,Solo,0,Vegetarian
+G0564,Thomas,Hall,thomas.hall691@example.com,54,Gen X,Sydney,AU,International,Direct,Silver,5,True,Family,2,None
+G0565,Janet,Anderson,janet.anderson906@example.com,73,Boomer,London,UK,International,OTA,None,1,False,Solo,0,None
+G0566,Benjamin,Young,benjamin.young100@example.com,64,Boomer,Portland,OR,Local,Corporate,Silver,5,True,Family,3,None
+G0567,Kimberly,Walker,kimberly.walker263@example.com,30,Millennial,Chicago,IL,Regional,Direct,Silver,3,True,Couple,0,Gluten-Free
+G0568,Rachel,Clark,rachel.clark519@example.com,31,Millennial,Portland,OR,National,OTA,None,2,True,Family,3,None
+G0569,Susan,Thompson,susan.thompson478@example.com,45,Gen X,San Diego,CA,Regional,Corporate,None,1,False,Group,0,None
+G0570,Carolyn,Mitchell,carolyn.mitchell488@example.com,58,Gen X,Atlanta,GA,National,Direct,None,2,True,Family,2,None
+G0571,Diane,Baker,diane.baker434@example.com,74,Boomer,San Antonio,TX,Local,Direct,Silver,5,True,Group,0,Kosher
+G0572,Amanda,Carter,amanda.carter305@example.com,46,Gen X,Los Angeles,CA,Local,Direct,None,2,True,Solo,0,Dairy-Free
+G0573,Justin,Flores,justin.flores149@example.com,71,Boomer,Portland,OR,Regional,OTA,Silver,4,True,Couple,0,Gluten-Free
+G0574,Thomas,Green,thomas.green461@example.com,44,Gen X,New York,NY,National,Travel Agent,Silver,2,True,Family,3,Dairy-Free
+G0575,Mary,White,mary.white834@example.com,29,Millennial,Toronto,ON,International,OTA,None,1,False,Family,1,Vegetarian
+G0576,Jason,White,jason.white182@example.com,53,Gen X,Atlanta,GA,Local,OTA,Platinum,19,True,Couple,0,None
+G0577,Edward,Miller,edward.miller509@example.com,40,Millennial,Houston,TX,Local,Corporate,Gold,9,True,Group,0,None
+G0578,Sarah,Thompson,sarah.thompson991@example.com,42,Millennial,Houston,TX,Regional,OTA,None,2,True,Couple,0,None
+G0579,Sharon,Williams,sharon.williams16@example.com,40,Millennial,Toronto,ON,International,Corporate,Platinum,16,True,Family,2,None
+G0580,Stephanie,Campbell,stephanie.campbell178@example.com,71,Boomer,Minneapolis,MN,Regional,Travel Agent,Platinum,20,True,Group,0,Dairy-Free
+G0581,Laura,Smith,laura.smith644@example.com,49,Gen X,Atlanta,GA,Regional,Direct,Platinum,16,True,Solo,0,None
+G0582,Dorothy,Campbell,dorothy.campbell799@example.com,30,Millennial,San Diego,CA,Regional,OTA,Silver,5,True,Family,3,None
+G0583,Susan,Jones,susan.jones507@example.com,29,Millennial,Phoenix,AZ,Regional,Direct,None,1,False,Solo,0,Dairy-Free
+G0584,Christopher,Lopez,christopher.lopez306@example.com,31,Millennial,London,UK,International,Corporate,Gold,5,True,Family,2,Dairy-Free
+G0585,Diane,Martinez,diane.martinez222@example.com,65,Boomer,New York,NY,National,Travel Agent,Silver,3,True,Solo,0,None
+G0586,Donna,Robinson,donna.robinson764@example.com,24,Gen Z,Chicago,IL,Regional,Direct,None,1,False,Solo,0,Vegetarian
+G0587,Cynthia,Ramirez,cynthia.ramirez611@example.com,34,Millennial,Sydney,AU,International,Direct,Gold,4,True,Family,1,None
+G0588,Samuel,King,samuel.king361@example.com,40,Millennial,Charlotte,NC,Regional,Direct,Silver,5,True,Solo,0,Halal
+G0589,Janet,Perez,janet.perez219@example.com,49,Gen X,Houston,TX,Local,Corporate,Silver,3,True,Family,2,Vegan
+G0590,Samuel,Clark,samuel.clark699@example.com,51,Gen X,Toronto,ON,International,Direct,Silver,2,True,Group,0,None
+G0591,Emma,Johnson,emma.johnson292@example.com,34,Millennial,Portland,OR,Regional,Direct,Silver,4,True,Family,1,None
+G0592,Dennis,Thompson,dennis.thompson410@example.com,78,Boomer,Charlotte,NC,National,Direct,Platinum,8,True,Family,1,None
+G0593,Jessica,Lee,jessica.lee883@example.com,70,Boomer,San Diego,CA,Local,Direct,Platinum,19,True,Solo,0,None
+G0594,Kimberly,Perez,kimberly.perez705@example.com,33,Millennial,Houston,TX,Local,Direct,Platinum,9,True,Family,1,None
+G0595,Raymond,Young,raymond.young288@example.com,33,Millennial,Boston,MA,National,OTA,None,2,True,Couple,0,Vegetarian
+G0596,Sandra,Robinson,sandra.robinson839@example.com,51,Gen X,Seattle,WA,Local,Corporate,Gold,9,True,Solo,0,None
+G0597,George,Harris,george.harris999@example.com,47,Gen X,Houston,TX,National,Corporate,Platinum,22,True,Group,0,None
+G0598,Paul,Johnson,paul.johnson488@example.com,50,Gen X,San Diego,CA,Local,Direct,Silver,2,True,Couple,0,None
+G0599,Michael,Adams,michael.adams392@example.com,36,Millennial,Los Angeles,CA,Regional,Corporate,None,2,True,Couple,0,None
+G0600,Emma,Moore,emma.moore245@example.com,37,Millennial,San Diego,CA,Local,OTA,None,2,True,Group,0,Dairy-Free
