@@ -63,6 +63,7 @@ The project uses four related datasets:
 | Guests Data | Guest demographic information |
 | Reservations Data | Reservation and booking details |
 | Guest Profile Data | Customer behaviour and loyalty information |
+| Transactions Data | Each transaction details of every customer |
 | Analysis_Data | Combined dataset used for dashboards and formula analysis |
 
 ---
