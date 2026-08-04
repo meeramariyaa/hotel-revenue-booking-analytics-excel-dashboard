@@ -1,7 +1,6 @@
 # 🏨 Hotel Revenue & Booking Analytics Dashboard
 
 An interactive **Microsoft Excel Dashboard** developed to analyse hotel reservation and guest data, providing actionable business insights through dynamic reports, KPIs, and visualizations.
-> 
 ---
 
 ## 📌 Project Overview
