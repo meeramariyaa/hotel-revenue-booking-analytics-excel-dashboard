@@ -148,6 +148,11 @@ The dashboard helps management to:
 
 > <img width="1262" height="660" alt="image" src="https://github.com/user-attachments/assets/cc413b74-72cc-4813-861d-5c76fb0afc9d" />
 
+## 🎥 Live Dashboard Demo
+
+Watch the dashboard demonstration here:
+
+//https://www.linkedin.com/feed/update/urn:li:activity:7483847480019705856/
 ---
 
 
